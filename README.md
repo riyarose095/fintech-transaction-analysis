@@ -23,8 +23,8 @@ The goal was to explore transaction trends, customer behavior, and payment metho
 ## 📷 Dashboard Preview  
 Add your screenshots inside a folder called `screenshots` and link them here:  
 
-![Dashboard Page 1](screenshots/dashboard1.png)  
-![Dashboard Page 2](screenshots/dashboard2.png)  
+![Dashboard Page 1](https://github.com/riyarose095/fintech-transaction-analysis/blob/main/powerbi1.png)
+![Dashboard Page 2](https://github.com/riyarose095/fintech-transaction-analysis/blob/main/powerbi2.png) 
 
 ---
 
